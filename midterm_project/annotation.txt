@@ -1,0 +1,11 @@
+/data/thermal/I00700.jpg 397,214,425,272,0
+/data/thermal/I02079.jpg 538,194,564,248,0 566,195,591,250,0
+/data/thermal/I02074.jpg 553,198,578,253,0 525,200,550,250,0
+/data/thermal/I02427.jpg 500,211,520,256,0
+/data/thermal/I00710.jpg 435,211,467,284,0
+/data/thermal/I00692.jpg 376,214,400,261,0
+/data/thermal/I02428.jpg 502,210,522,257,0
+/data/thermal/I00696.jpg 387,214,412,267,0
+/data/thermal/I02420.jpg 489,212,509,252,0
+/data/thermal/I00748.jpg 300,230,320,250,0
+/data/thermal/I02076.jpg 558,197,583,252,0 530,196,555,247,0

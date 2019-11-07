@@ -1,0 +1,16 @@
+Cat, Dog
+Mouse, Mouse, Mouse
+Kitty, Puppy
+Duck, Cat
+Mouse, Cat, Mouse
+Coyote, Dog, Dog
+Coati, Cat, Cat
+Pig, Pig, Dog
+Mouse, Mouse
+Dog, Dog, Dog
+Cat, Cat
+Rooster, Hen, Hen, Hen
+Chicks, Hen, Chicks
+Cat, Cat, Cat
+Mouse, Cat
+Dog, Dog, Dog

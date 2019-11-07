@@ -1,0 +1,16 @@
+/home/Tom/Pictures/I10045.jpg
+/home/Jerry/Pictures/I10056.jpg
+/home/Tom/Pictures/I20143.jpg
+/home/Jerry/Pictures/I00125.jpg
+/home/Tom/Document/I20582.jpg
+/home/Jerry/Document/I10462.jpg
+/home/Tom/Document/I20542.jpg
+/home/Jerry/Document/I10981.jpg
+/home/Tom/Downloads/I00312.jpg
+/home/Jerry/Downloads/I28451.jpg
+/home/Tom/Downloads/I24332.jpg
+/home/Jerry/Downloads/I00213.jpg
+/home/Tom/Desktop/I10651.jpg
+/home/Jerry/Desktop/I01945.jpg
+/home/Tom/Desktop/I30241.jpg
+/home/Jerry/Desktop/I25412.jpg
